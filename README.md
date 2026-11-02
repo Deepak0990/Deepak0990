@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Deepak Ranjan Padhy.<br>I am a B' Tech Final year computer science and engineering student.<br>I am studying in Vignan Institute of technology and management Berhampur, Odisha.<br>I am exited to start my Journey in IT line in  the field of Data Analytics.
+Aspiring Data Scientist & Analyst | Passionate about Python, SQL, and turning complex data into smart automation solutions.
 
 
 ## 🌐 Socials:
